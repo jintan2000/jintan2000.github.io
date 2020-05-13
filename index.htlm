@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<head>
+  <title>home page</title>
+  <link rel="stylesheet" href="https://jintan2000.github.io/css/styles.css">
+</head>
+<html>
+	<body>
+		<h1>Hello World</h1>
+		<p>I'm hosted with GitHub Pages.</p>
+	</body>
+</html>
